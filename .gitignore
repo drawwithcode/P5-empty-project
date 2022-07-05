@@ -117,3 +117,5 @@ dist
 
 # other stuff
 ngrok
+.DS_Store
+jsconfig.json
